@@ -1,0 +1,9 @@
+2 //dimensions
+output/cluster/E/10/ //output path
+1 //keep log
+0.50   // T_target
+0 // equil steps
+100001   // production steps
+0.0005  // dt
+1000     // thermostat every 10 steps
+10000     // sample every 10 steps

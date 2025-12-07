@@ -1,0 +1,13 @@
+100 //number of particles
+0.4 //density
+1 //placement radius
+2 //dimensions
+output/MDLJ/4/ //output path
+1 //keep log
+0.75    // T_target
+0 // equil steps
+1000000   // production steps
+0.0005  // dt
+1000     // thermostat every 10 steps
+1000     // sample every 10 steps
+2.5   // r_cut
