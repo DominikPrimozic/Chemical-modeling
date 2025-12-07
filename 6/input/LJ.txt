@@ -1,0 +1,17 @@
+100 //number of particles
+0.4 //density
+2 //dimensions
+1 //reduced temperature
+1 //epsilon
+1 //sigma
+2.5 //cutoff
+1000000 //equilibration steps
+1000000 //sampling steps
+10000 //tunning steps
+10000 //equil_steps_check
+10000 //sampling interval
+output/LJ/E/1/ //energies path
+output/LJ/C/1/ //configurations path
+1 //save_configs;
+output/LJ/L/ //log path
+0 //keep log
