@@ -1,0 +1,6 @@
+50 //left boundary
+50 //right boundary
+50 //bottom boundary
+20 //top boundary
+500 //source/lambda
+100 //dimensions

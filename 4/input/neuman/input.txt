@@ -1,0 +1,5 @@
+50 //left boundary
+50 //right boundary
+45 //bottom boundary
+0 //neuman condition
+100 //dimensions

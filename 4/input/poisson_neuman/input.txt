@@ -1,0 +1,6 @@
+100 //left boundary
+100 //right boundary
+50 //bottom boundary
+0 //neuman condition
+-100 //source/lambda
+100 //dimensions

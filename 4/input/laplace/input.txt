@@ -1,0 +1,5 @@
+50 //left boundary
+0 //right boundary
+0 //bottom boundary
+100 //top boundary
+100 //dimensions
