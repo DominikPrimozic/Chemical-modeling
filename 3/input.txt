@@ -1,0 +1,15 @@
+1e-5 //double k; 
+2 //double c0;
+1e-5 //double D; 
+2 //double H; 
+3.0 //double rxn_order; 
+100 //double l; 
+100 //double T0
+200 //double TH
+10       //double q; //first derivative of T
+400 //double Ea;
+450 //double Ed;
+200 //double reaction_heat; 
+0.001    //double dx
+0.01     //double h
+1       //double guess for c(0)
