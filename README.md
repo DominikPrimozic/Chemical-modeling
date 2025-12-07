@@ -1,0 +1,1 @@
+Repozitorij z mojo C++ kodo za reševanje nalog in python kodo za pripravo rezultatov za izbirni predmet na 2. stopnji študija na FKKT - Modeliranje Kemijskih Sistemov, v letu 2024/2025. Profesor nalog en spreminja, zato so verjetno še aktualne. Za vsa poročila sem dobil 10.
